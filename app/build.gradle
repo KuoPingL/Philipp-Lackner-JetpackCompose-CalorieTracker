@@ -37,7 +37,8 @@ android {
         compose true
     }
     composeOptions {
-        kotlinCompilerExtensionVersion compose_version
+        kotlinCompilerExtensionVersion '1.5.11' // https://developer.android.com/jetpack/androidx/releases/compose-compiler
+//        kotlinCompilerExtensionVersion compose_version
 //        kotlinCompilerVersion '1.5.21' // deprecated
     }
     packagingOptions {
