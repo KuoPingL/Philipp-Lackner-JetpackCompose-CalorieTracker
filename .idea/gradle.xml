@@ -13,6 +13,9 @@
             <option value="$PROJECT_DIR$/core" />
             <option value="$PROJECT_DIR$/onboarding_domain" />
             <option value="$PROJECT_DIR$/onboarding_presentation" />
+            <option value="$PROJECT_DIR$/tracker_data" />
+            <option value="$PROJECT_DIR$/tracker_domain" />
+            <option value="$PROJECT_DIR$/tracker_presentation" />
           </set>
         </option>
         <option name="resolveExternalAnnotations" value="false" />
